@@ -8,7 +8,7 @@ public class Cliente {
 
 	public static void main(String[] args) {
 		
-		//Segundo commit
+		//Terceiro commit
 		String REST_URI = "http://localhost:8080/rest.example/vehicle/TESTESSS";
 		  
 		Client client = Client.create();
