@@ -7,7 +7,8 @@ import com.sun.jersey.api.client.WebResource;
 public class Cliente {
 
 	public static void main(String[] args) {
-
+		
+		//teste commit
 		String REST_URI = "http://localhost:8080/rest.example/vehicle/TESTESSS";
 		  
 		Client client = Client.create();
